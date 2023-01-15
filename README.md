@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilucasfm
-- 👀 I’m interested in JS || React || IA
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on JS
 - 📫 How to reach me E-mail: ilucasfm@hotmail.com || Telegram: @Lucasfmrj
